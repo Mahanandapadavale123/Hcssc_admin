@@ -1,0 +1,4 @@
+.select2-container--default .select2-selection.is-invalid {
+    border: 1px solid #dc3545 !important; /* Bootstrap's red */
+    border-radius: 0.375rem; /* match .form-select */
+}
